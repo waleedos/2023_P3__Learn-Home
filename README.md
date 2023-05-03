@@ -80,7 +80,7 @@ Thomas
 Pièce-jointe :
 [Notes - Réunion lancement du projet Learn@Home](https://course.oc-static.com/projects/Python+FR/P3+-+Designez+une+application+Python+adapt%C3%A9e+aux+besoins+d'un+client/Notes+-+Re%CC%81union+Learn%40Home.pdf)
 ```
-## Les Balises et informations visées par ce Scarpp
+## Les Livrables :
 - 1 - Le diagramme de cas d’usage UML, enregistré ou exporté au format PDF.
 - 2 - Les user stories avec critère(s) d’acceptation, enregistrés ou exportés au format PDF.
 - 3 - Les wireframes du site (maquettes fonctionnelles), enregistrées ou exportées au format PDF.
